@@ -1,4 +1,4 @@
-# Article Scraper
+# 'Gettr' - Article Scraper
 
 A Python script to scrape articles from URLs and save them as text files.
 
